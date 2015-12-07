@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+}
+
+.login {
+  background: #3498db;
+  border-radius: 5px;
+  border:1px solid transparent;
+  color: #fff;
+  font-weight: bold;
+  height:35px;
+  text-align: center;
+  width:357px;
+}
+.signIn {
+  border:1px solid transparent;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  height: 35px;
+  width: 150px;
+
+}
+.input {
+  border: 1px solid #bdc3c7;
+  border-radius: 3px;
+  box-sizing: border-box;
+  display: block;
+  margin-top: 5px;
+  outline: 0;
+  padding: 8px;
+  transition: all .15s ease-in;
+  width: 100%;
+}
+.table {
+  border-radius: 5px;
+  border-spacing: 20px;
+  float: left;
+  left:200px;
+  opacity: 0.8;
+  width: 400px;
+
+}
+.or {
+   border-radius: 50px;
+   background:lightgrey;
+   font-size: 20px;
+   height:22px;
+   left:370px;
+   position:absolute;
+   top:372px;
+   width:70px;
+}
+.images {
+  border: 2px solid green;
+  background-color: CC9933;
+  float:left;
+  opacity: 0.5;
+  height: 502px;
+  width: 600px;
+}
+.space {
+  float:left;
+  width: 100px;
+}
+img {
+  height: 300px;
+  padding-left: 50px;
+  width:300px;
+}
